@@ -26,11 +26,12 @@
 
     <TextView
         android:id="@+id/tv_dismiss"
-        android:background="?android:attr/selectableItemBackground"
+        android:background="@drawable/dismiss_button_background"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:clickable="true"
+
         android:paddingBottom="10dp"
         android:paddingTop="10dp"
         android:paddingLeft="5dp"
